@@ -1,4 +1,4 @@
-### About me :)
+### Stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tade03&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tade03&layout=compact&theme=radical)
