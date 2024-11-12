@@ -1,5 +1,6 @@
 ### Stats:
-![Alt text](./images/emef.jpg)
+<img src="./images/emef.jpg" alt="MfAutomaton" width="600" height="300">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=testudoDaemon&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=testudoDaemon&layout=compact&theme=radical)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=testudoDaemon&theme=radical)
