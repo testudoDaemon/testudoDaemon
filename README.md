@@ -10,6 +10,12 @@
 <h3 align="left"> Backend </h3>
 <img src='https://go-skill-icons.vercel.app/api/icons?i=cpp,java,nextjs,nodejs,spring'/>
 
+<h3 aling="left"> Frontend </h3>
+<img src='https://go-skill-icons.vercel.app/api/icons?i=html,css,bootsrap,tailwind,vuejs,handebars'/>
+
+<h3 aling="left"> Data Bases</h3>
+<img src='https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,sybase'/>
+
 ### Listen 
 
 <div align="center">
