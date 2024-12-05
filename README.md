@@ -1,9 +1,15 @@
+### About me
+
 ### Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=testudoDaemon&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testudoDaemon&layout=compact&theme=radical" alt="Top Languages">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=testudoDaemon&theme=radical" alt="GitHub Streak">
+</div>
+
+<div>
+    <a href="https://go-skill-icons.vercel.app/api/icons?i=java,python,c++">
+    <a href="https://go-skill-icons.vercel.app/api/icons?i=docker">
+    <a href="https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle">
 </div>
 
 ### Listen 
