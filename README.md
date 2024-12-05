@@ -6,11 +6,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testudoDaemon&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
-<div>
-    <img href="https://go-skill-icons.vercel.app/api/icons?i=java,python,c++">
-    <img href="https://go-skill-icons.vercel.app/api/icons?i=docker">
-    <img href="https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle">
-</div>
+
+<h3 align="left"> Backend </h3>
+<img src='https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,java,rust,zig,dotnet,kotlin,elysia,nextjs,spring'/>
 
 ### Listen 
 
