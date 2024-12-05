@@ -7,9 +7,9 @@
 </div>
 
 <div>
-    <a href="https://go-skill-icons.vercel.app/api/icons?i=java,python,c++">
-    <a href="https://go-skill-icons.vercel.app/api/icons?i=docker">
-    <a href="https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle">
+    <img href="https://go-skill-icons.vercel.app/api/icons?i=java,python,c++">
+    <img href="https://go-skill-icons.vercel.app/api/icons?i=docker">
+    <img href="https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle">
 </div>
 
 ### Listen 
