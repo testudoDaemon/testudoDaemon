@@ -8,7 +8,7 @@
 
 
 <h3 align="left"> Backend </h3>
-<img src='https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,java,rust,zig,dotnet,kotlin,elysia,nextjs,spring'/>
+<img src='https://go-skill-icons.vercel.app/api/icons?i=cpp,java,nextjs,nodejs,spring'/>
 
 ### Listen 
 
