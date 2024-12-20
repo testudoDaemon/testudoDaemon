@@ -1,20 +1,20 @@
-### About me
+<div class="main" style="display: flex; justify-content: center;">
+  <div class="main-left" style="margin-right: 20px;">
+    ### About me
 
-### Stats:
+  </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testudoDaemon&layout=compact&theme=radical" alt="Top Languages">
+  <div class="main-right" style="margin-left: 20px;">
+    ### Stats:
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testudoDaemon&layout=compact&theme=radical" alt="Top Languages">
+
+  </div>
 </div>
 
-
-<h3 align="left"> Backend </h3>
-<img src='https://go-skill-icons.vercel.app/api/icons?i=cpp,java,nextjs,nodejs,spring'/>
-
-<h3 aling="left"> Frontend </h3>
-<img src='https://go-skill-icons.vercel.app/api/icons?i=html,css,bootsrap,tailwind,vuejs,handebars'/>
-
-<h3 aling="left"> Data Bases</h3>
-<img src='https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,sybase'/>
+<div>
+<h3 align="left"> I have experience in this tools: </h3>
+<img src='https://go-skill-icons.vercel.app/api/icons?i=cpp,java,nextjs,nodejs,html,css,bootstrap,tailwind,vuejs,oracle,mysql,docker,linux'/>
+</div>
 
 ### Listen 
 
